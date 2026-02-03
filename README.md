@@ -22,11 +22,19 @@ This project compiles and analyzes evidence from randomized controlled trials (R
 | **Zinc** | — | ✓ | — | Moderate (if deficient) |
 | **Iron** | — | ✓ | — | Moderate (if deficient) |
 | **Phosphatidylserine** | — | ✓ | — | Moderate |
+| **Broad-Spectrum Micronutrients** | — | ✓ | — | Moderate |
 | **Probiotics** | ✓ | — | — | Moderate |
 | **Folinic Acid** | ✓* | — | — | Moderate |
 | **Vitamin D** | ✓ | — | — | Moderate |
+| **Inositol** | — | — | ✓ | Moderate |
+| **L-Carnosine** | — | — | ✓ | Preliminary |
+| **Glycine** | — | — | ✓ | Preliminary |
+| **Valerian** | — | — | ✓ | Preliminary |
+| **5-HTP** | — | — | ✓ | Preliminary (⚠️ SSRI caution) |
 
 *For individuals with Folate Receptor Autoantibodies (FRAAs)
+
+**Note:** No single supplement has standalone RCT evidence for all three conditions.
 
 ### Top Evidence-Based Interventions
 
