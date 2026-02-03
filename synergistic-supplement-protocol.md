@@ -422,6 +422,9 @@ Evening:
 
 ---
 
-*Last updated: 2025*
-*Created with evidence from peer-reviewed research*
+*Last updated: February 2026*
 *Protocol designed for educational purposes - individualize with healthcare provider*
+
+---
+
+**AI Disclosure:** This document was researched and compiled with AI assistance (Claude/OpenClaw). All cited studies are real peer-reviewed publications indexed in PubMed. Always verify claims with original sources and consult healthcare professionals.

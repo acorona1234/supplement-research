@@ -78,6 +78,7 @@ See `synergistic-supplement-protocol.md` for the complete tiered protocol.
 - **Test for deficiencies first:** Iron, zinc, vitamin D, and FRAAs should be tested before supplementing.
 - **Supplements are adjunctive:** They complement, not replace, conventional treatments.
 - **Individual variation is significant:** What works for one person may not work for another.
+- **AI Disclosure:** This research was compiled with AI assistance (Claude/OpenClaw). All cited studies are real peer-reviewed publications indexed in PubMed. Always verify claims with original sources.
 
 ## 📚 Key References
 

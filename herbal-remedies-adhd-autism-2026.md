@@ -389,29 +389,33 @@ Current scientific evidence for herbal treatments in ADHD and autism spectrum di
 
 ## REFERENCES (Organized by PMID)
 
-| PMID | Citation |
-|------|----------|
-| 30741567 | Baziar S, et al. J Child Adolesc Psychopharmacol. 2019 (Saffron vs MPH) |
-| 38424688 | Han S, et al. Phytother Res. 2024 (Saffron systematic review) |
-| 35041248 | Kean JD, et al. Phytother Res. 2022 (Bacopa RCT in children) |
-| 27912958 | Kean JD, et al. Complement Ther Med. 2016 (Bacopa systematic review) |
-| 24252493 | Kongkeaw C, et al. J Ethnopharmacol. 2014 (Bacopa meta-analysis) |
-| 25369174 | Ko HJ, et al. J Child Adolesc Psychopharmacol. 2014 (Korean Red Ginseng RCT) |
-| 12142861 | Tenenbaum S, et al. J Atten Disord. 2002 (Pycnogenol adult study) |
-| 18019397 | Dvoráková M, et al. Nutr Neurosci. 2007 (Pycnogenol catecholamines) |
-| 23179673 | Trompetter I, et al. Wien Med Wochenschr. 2013 (Herbal triplet) |
-| 19815048 | Salehi B, et al. Prog Neuropsychopharmacol Biol Psychiatry. 2010 (Ginkgo RCT) |
-| 31670573 | Mazhar H, et al. J Child Adolesc Psychopharmacol. 2020 (NHP-drug interactions) |
-| 35617670 | Silva EAD Junior, et al. Trends Psychiatry Psychother. 2024 (CBD for ASD RCT) |
-| 36085294 | Hacohen M, et al. Transl Psychiatry. 2022 (CBD for ASD open label) |
-| 37543051 | Parrella NF, et al. Pharmacol Biochem Behav. 2023 (CBD neurodevelopmental review) |
-| 31672337 | Black N, et al. Lancet Psychiatry. 2019 (Cannabinoids meta-analysis) |
-| 28137522 | Anheyer D, et al. Complement Ther Med. 2017 (Herbal ADHD systematic review) |
-| 35592415 | Dutta T, et al. Front Pharmacol. 2022 (Phytotherapy ADHD meta-analysis) |
-| 29283066 | Gasparotto FM, et al. Curr Drug Metab. 2018 (Herbal ASD systematic review) |
-| 32990945 | Robertson NU, et al. Cochrane Database Syst Rev. 2020 (Pine bark review) |
-| 29575228 | Sarris J. Phytother Res. 2018 (Herbal medicines in psychiatric disorders) |
+| # | PMID | Study Focus | Full Citation |
+|---|------|-------------|---------------|
+| 1 | [30741567](https://pubmed.ncbi.nlm.nih.gov/30741567/) | Saffron vs MPH | Baziar S, et al. Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study. *J Child Adolesc Psychopharmacol.* 2019 Apr;29(3):205-212. |
+| 2 | [38424688](https://pubmed.ncbi.nlm.nih.gov/38424688/) | Saffron systematic review | Han S, et al. New horizons for the study of saffron (Crocus sativus L.) and its active ingredients in the management of neurological and psychiatric disorders: A systematic review of clinical evidence and mechanisms. *Phytother Res.* 2024 May;38(5):2276-2302. |
+| 3 | [35041248](https://pubmed.ncbi.nlm.nih.gov/35041248/) | Bacopa RCT in children | Kean JD, et al. Effects of Bacopa monnieri (CDRI 08®) in a population of males exhibiting inattention and hyperactivity aged 6 to 14 years: A randomized, double-blind, placebo-controlled trial. *Phytother Res.* 2022 Feb;36(2):996-1012. |
+| 4 | [27912958](https://pubmed.ncbi.nlm.nih.gov/27912958/) | Bacopa systematic review | Kean JD, et al. A systematic review of the Ayurvedic medicinal herb Bacopa monnieri in child and adolescent populations. *Complement Ther Med.* 2016 Dec;29:56-62. |
+| 5 | [24252493](https://pubmed.ncbi.nlm.nih.gov/24252493/) | Bacopa meta-analysis | Kongkeaw C, et al. Meta-analysis of randomized controlled trials on cognitive effects of Bacopa monnieri extract. *J Ethnopharmacol.* 2014;151(1):528-35. |
+| 6 | [25369174](https://pubmed.ncbi.nlm.nih.gov/25369174/) | Korean Red Ginseng RCT | Ko HJ, et al. Effects of Korean red ginseng extract on behavior in children with symptoms of inattention and hyperactivity/impulsivity: a double-blind randomized placebo-controlled trial. *J Child Adolesc Psychopharmacol.* 2014 Nov;24(9):501-8. |
+| 7 | [12142861](https://pubmed.ncbi.nlm.nih.gov/12142861/) | Pycnogenol adult study | Tenenbaum S, et al. An experimental comparison of Pycnogenol and methylphenidate in adults with Attention-Deficit/Hyperactivity Disorder (ADHD). *J Atten Disord.* 2002 Sep;6(2):49-60. |
+| 8 | [18019397](https://pubmed.ncbi.nlm.nih.gov/18019397/) | Pycnogenol catecholamines | Dvoráková M, et al. Urinary catecholamines in children with attention deficit hyperactivity disorder (ADHD): modulation by a polyphenolic extract from pine bark (pycnogenol). *Nutr Neurosci.* 2007 Jun-Aug;10(3-4):151-7. |
+| 9 | [23179673](https://pubmed.ncbi.nlm.nih.gov/23179673/) | Herbal triplet | Trompetter I, et al. Herbal triplet in treatment of nervous agitation in children. *Wien Med Wochenschr.* 2013 Feb. |
+| 10 | [19815048](https://pubmed.ncbi.nlm.nih.gov/19815048/) | Ginkgo RCT | Salehi B, et al. Ginkgo biloba for attention-deficit/hyperactivity disorder in children and adolescents: a double blind, randomized controlled trial. *Prog Neuropsychopharmacol Biol Psychiatry.* 2010 Feb 1;34(1):76-80. |
+| 11 | [31670573](https://pubmed.ncbi.nlm.nih.gov/31670573/) | NHP-drug interactions | Mazhar H, et al. Natural Health Product-Drug Interaction Causality Assessment in Pediatric Adverse Event Reports Associated with Attention-Deficit/Hyperactivity Disorder Medication. *J Child Adolesc Psychopharmacol.* 2020 Feb;30(1):38-47. |
+| 12 | [35617670](https://pubmed.ncbi.nlm.nih.gov/35617670/) | CBD for ASD RCT | Silva EAD Junior, et al. Evaluation of the efficacy and safety of cannabidiol-rich cannabis extract in children with autism spectrum disorder: randomized, double-blind, and placebo-controlled clinical trial. *Trends Psychiatry Psychother.* 2024;46:e20210396. |
+| 13 | [36085294](https://pubmed.ncbi.nlm.nih.gov/36085294/) | CBD for ASD open label | Hacohen M, et al. Children and adolescents with ASD treated with CBD-rich cannabis exhibit significant improvements particularly in social symptoms: an open label study. *Transl Psychiatry.* 2022. |
+| 14 | [37543051](https://pubmed.ncbi.nlm.nih.gov/37543051/) | CBD neurodevelopmental review | Parrella NF, et al. A systematic review of cannabidiol trials in neurodevelopmental disorders. *Pharmacol Biochem Behav.* 2023 Sep;230:173607. |
+| 15 | [31672337](https://pubmed.ncbi.nlm.nih.gov/31672337/) | Cannabinoids meta-analysis | Black N, et al. Cannabinoids for the treatment of mental disorders and symptoms of mental disorders: a systematic review and meta-analysis. *Lancet Psychiatry.* 2019 Dec. |
+| 16 | [28137522](https://pubmed.ncbi.nlm.nih.gov/28137522/) | Herbal ADHD systematic review | Anheyer D, et al. Herbal medicines in children with attention deficit hyperactivity disorder (ADHD): A systematic review. *Complement Ther Med.* 2017 Feb;30:14-23. |
+| 17 | [35592415](https://pubmed.ncbi.nlm.nih.gov/35592415/) | Phytotherapy ADHD meta-analysis | Dutta T, et al. Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis. *Front Pharmacol.* 2022. |
+| 18 | [29283066](https://pubmed.ncbi.nlm.nih.gov/29283066/) | Herbal ASD systematic review | Gasparotto FM, et al. Herbal Medicine as an Alternative Treatment in Autism Spectrum Disorder: A Systematic Review. *Curr Drug Metab.* 2018;19(5):454-462. |
+| 19 | [32990945](https://pubmed.ncbi.nlm.nih.gov/32990945/) | Pine bark review | Robertson NU, et al. Pine bark (Pinus spp.) extract for treating chronic disorders. *Cochrane Database Syst Rev.* 2020. |
+| 20 | [29575228](https://pubmed.ncbi.nlm.nih.gov/29575228/) | Herbal medicines in psychiatric disorders | Sarris J. Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. *Phytother Res.* 2018 Jul;32(7):1147-1162. |
 
 ---
 
 *Disclaimer: This research summary is for informational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before starting any treatment.*
+
+---
+
+**AI Disclosure:** This document was researched and compiled with AI assistance (Claude/OpenClaw). All cited studies are real peer-reviewed publications indexed in PubMed. Always verify claims with original sources and consult healthcare professionals.

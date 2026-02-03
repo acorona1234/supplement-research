@@ -113,22 +113,26 @@ Before beginning any supplement regimen, consider testing for deficiencies that 
 
 All citations are indexed in PubMed (PMID). Search at: https://pubmed.ncbi.nlm.nih.gov/
 
-| Supplement | PMID | Study Focus |
-|------------|------|-------------|
-| Saffron | [30741567](https://pubmed.ncbi.nlm.nih.gov/30741567/) | Saffron vs. methylphenidate in ADHD |
-| Probiotics | [39702309](https://pubmed.ncbi.nlm.nih.gov/39702309/) | Behavioral symptoms in ASD |
-| Omega-3s (ASD) | [39568282](https://pubmed.ncbi.nlm.nih.gov/39568282/) | Hyperactivity & speech in young children |
-| Folinic Acid | [33029705](https://pubmed.ncbi.nlm.nih.gov/33029705/) | Language in ASD with FRAAs |
-| Vitamin D | [37119216](https://pubmed.ncbi.nlm.nih.gov/37119216/) | Stereotypical behaviors in ASD |
-| NAC | [34793863](https://pubmed.ncbi.nlm.nih.gov/34793863/) | Irritability in ASD |
-| Omega-3s (ADHD) | [25181335](https://pubmed.ncbi.nlm.nih.gov/25181335/) | Meta-analysis of omega-3s in ADHD |
-| Zinc | [21309695](https://pubmed.ncbi.nlm.nih.gov/21309695/) | Zinc as stimulant adjunct |
-| Iron | [29335588](https://pubmed.ncbi.nlm.nih.gov/29335588/) | Iron status in ADHD |
-| Micronutrients | [28967099](https://pubmed.ncbi.nlm.nih.gov/28967099/) | Broad-spectrum nutrients in ADHD |
-| Phosphatidylserine | [33539192](https://pubmed.ncbi.nlm.nih.gov/33539192/) | PS for attention |
+| # | Supplement | PMID | Study Focus | Full Citation |
+|---|------------|------|-------------|---------------|
+| 1 | Saffron | [30741567](https://pubmed.ncbi.nlm.nih.gov/30741567/) | Saffron vs. methylphenidate in ADHD | Baziar S, et al. Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study. *J Child Adolesc Psychopharmacol.* 2019 Apr;29(3):205-212. |
+| 2 | Probiotics | [39702309](https://pubmed.ncbi.nlm.nih.gov/39702309/) | Behavioral symptoms in ASD | Lee JC, et al. The therapeutic effects of probiotics on core and associated behavioral symptoms of autism spectrum disorders: a systematic review and meta-analysis. *Child Adolesc Psychiatry Ment Health.* 2024. |
+| 3 | Omega-3s (ASD) | [39568282](https://pubmed.ncbi.nlm.nih.gov/39568282/) | Hyperactivity & speech in young children | Abbasi H, et al. Impact of omega-3 fatty acid supplementation on clinical manifestations in autism spectrum disorders: an umbrella review of meta-analyses. *Nutr Res Rev.* 2025 Dec;38(2):546-557. |
+| 4 | Folinic Acid | [33029705](https://pubmed.ncbi.nlm.nih.gov/33029705/) | Language in ASD with FRAAs | Batebi N, et al. Folinic Acid as Adjunctive Therapy in Treatment of Inappropriate Speech in Children with Autism: A Double-Blind and Placebo-Controlled Randomized Trial. *Child Psychiatry Hum Dev.* 2021 Oct;52(5):928-938. |
+| 5 | Vitamin D | [37119216](https://pubmed.ncbi.nlm.nih.gov/37119216/) | Stereotypical behaviors in ASD | Zhang M, et al. Effects of Vitamin D Supplementation on Children with Autism Spectrum Disorder: A Systematic Review and Meta-analysis. *Clin Psychopharmacol Neurosci.* 2023. |
+| 6 | NAC | [34793863](https://pubmed.ncbi.nlm.nih.gov/34793863/) | Irritability in ASD | Liu Y, et al. Antioxidant interventions in autism spectrum disorders: A meta-analysis. *Prog Neuropsychopharmacol Biol Psychiatry.* 2022 Mar 8;113:110476. |
+| 7 | Omega-3s (ADHD) | [25181335](https://pubmed.ncbi.nlm.nih.gov/25181335/) | Meta-analysis of omega-3s in ADHD | Hawkey E, et al. Omega-3 fatty acid and ADHD: blood level analysis and meta-analytic extension of supplementation trials. *Clin Psychol Rev.* 2014 Aug. |
+| 8 | Zinc | [21309695](https://pubmed.ncbi.nlm.nih.gov/21309695/) | Zinc as stimulant adjunct | Arnold LE, et al. Zinc for attention-deficit/hyperactivity disorder: placebo-controlled double-blind pilot trial alone and combined with amphetamine. *J Child Adolesc Psychopharmacol.* 2011 Feb. |
+| 9 | Iron | [29335588](https://pubmed.ncbi.nlm.nih.gov/29335588/) | Iron status in ADHD | Tseng PT, et al. Peripheral iron levels in children with attention-deficit hyperactivity disorder: a systematic review and meta-analysis. *Sci Rep.* 2018 Jan 15;8(1):788. |
+| 10 | Micronutrients | [28967099](https://pubmed.ncbi.nlm.nih.gov/28967099/) | Broad-spectrum nutrients in ADHD | Rucklidge JJ, et al. Vitamin-mineral treatment improves aggression and emotional regulation in children with ADHD: a fully blinded, randomized, placebo-controlled trial. *J Child Psychol Psychiatry.* 2018 Mar;59(3):232-246. |
+| 11 | Phosphatidylserine | [33539192](https://pubmed.ncbi.nlm.nih.gov/33539192/) | PS for attention | Bruton A, et al. Phosphatidylserine for the Treatment of Pediatric Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis. *J Altern Complement Med.* 2021 Apr;27(4):312-322. |
 
 ---
 
 *Document prepared for informational purposes. This is not medical advice. Always consult a qualified healthcare provider before starting any supplement regimen.*
 
-*Last updated: January 2025*
+*Last updated: February 2026*
+
+---
+
+**AI Disclosure:** This document was researched and compiled with AI assistance (Claude/OpenClaw). All cited studies are real peer-reviewed publications indexed in PubMed. Always verify claims with original sources and consult healthcare professionals.

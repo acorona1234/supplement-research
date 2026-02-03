@@ -425,4 +425,7 @@ One open-label pilot study (TRON study, Sarris et al. 2022) tested a **combinati
 ---
 
 *Report compiled from PubMed database searches, February 2026*
-*Scout 🔍 Research Subagent*
+
+---
+
+**AI Disclosure:** This document was researched and compiled with AI assistance (Claude/OpenClaw). All cited studies are real peer-reviewed publications indexed in PubMed. Always verify claims with original sources and consult healthcare professionals.
